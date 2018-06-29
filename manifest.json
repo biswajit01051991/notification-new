@@ -1,0 +1,11 @@
+{
+    "name": "Web Push Demo",
+    "short_name": "push_demo",
+    "version": "1.0.0",
+    "description": "A simple site with push notification",
+    "author": {
+    "name": "Biswajit Singha"
+ },
+    "gcm_sender_id": "840481933097",
+    "gcm_user_visible_only": true
+ }
